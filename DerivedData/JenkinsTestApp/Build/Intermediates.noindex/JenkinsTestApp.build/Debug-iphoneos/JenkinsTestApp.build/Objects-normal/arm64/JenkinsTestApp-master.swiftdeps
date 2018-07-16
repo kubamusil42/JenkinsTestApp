@@ -1,6 +1,0 @@
-version: "Apple Swift version 4.2 (swiftlang-1000.0.25.1 clang-1000.10.28.1)"
-options: "42dbb904e38957a367aa6f0235d21059"
-build_time: [1531727945, 673149000]
-inputs:
-  "/Users/Shared/Jenkins/Desktop/HelloWorld_GitHub/JenkinsTestApp/ViewController.swift": [1531478920, 0]
-  "/Users/Shared/Jenkins/Desktop/HelloWorld_GitHub/JenkinsTestApp/AppDelegate.swift": [1531478920, 0]
