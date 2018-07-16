@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "cf73174cdcf8f078a67a367319483202"
+build_time: [1531735606, 293787000]
+inputs:
+  "/Users/Shared/Jenkins/Desktop/HelloWorld_GitHub/JenkinsTestApp/ViewController.swift": [1531478920, 0]
+  "/Users/Shared/Jenkins/Desktop/HelloWorld_GitHub/JenkinsTestApp/AppDelegate.swift": !dirty [1531478920, 0]
