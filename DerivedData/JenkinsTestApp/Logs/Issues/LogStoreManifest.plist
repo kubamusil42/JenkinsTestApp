@@ -5,31 +5,7 @@
 	<key>logFormatVersion</key>
 	<integer>8</integer>
 	<key>logs</key>
-	<dict>
-		<key>0EC51EA7-C618-4629-A58B-5DF80FD0F84C</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
-			<key>fileName</key>
-			<string>0EC51EA7-C618-4629-A58B-5DF80FD0F84C.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>signature</key>
-			<string>JenkinsTestApp-frynnbkenlzwupheurxmstytqjal</string>
-			<key>timeStartedRecording</key>
-			<real>553423606.53154397</real>
-			<key>timeStoppedRecording</key>
-			<real>553423618.06830204</real>
-			<key>title</key>
-			<string>Build target JenkinsTestApp</string>
-			<key>uniqueIdentifier</key>
-			<string>0EC51EA7-C618-4629-A58B-5DF80FD0F84C</string>
-		</dict>
-	</dict>
+	<dict/>
 	<key>preserveOldLogs</key>
 	<true/>
 </dict>
